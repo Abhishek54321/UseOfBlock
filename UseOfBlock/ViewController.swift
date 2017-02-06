@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     }
 
 //1.doing some changes in ViewController
+   //2.we are adding some after cloning from remote server.
     
 }
 
