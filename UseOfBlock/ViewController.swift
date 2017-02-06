@@ -21,6 +21,8 @@ class ViewController: UIViewController {
     }
 
 //1.doing some changes in ViewController
+  //2. doing some changes after cloning from the server.
+    //3.Modify some file and push into git hub.
     
 }
 
