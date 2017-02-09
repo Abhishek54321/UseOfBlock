@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		19A5A7E01E4C4ADD00B81564 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 19A5A7DF1E4C4ADD00B81564 /* .gitignore */; };
 		B2FF2B551E488A6F0080F945 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FF2B541E488A6F0080F945 /* AppDelegate.swift */; };
 		B2FF2B571E488A6F0080F945 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2FF2B561E488A6F0080F945 /* ViewController.swift */; };
 		B2FF2B5A1E488A6F0080F945 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2FF2B581E488A6F0080F945 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		19A5A7DF1E4C4ADD00B81564 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		B2FF2B511E488A6F0080F945 /* UseOfBlock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UseOfBlock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2FF2B541E488A6F0080F945 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B2FF2B561E488A6F0080F945 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				B2FF2B601E488A6F0080F945 /* LaunchScreen.storyboard */,
 				B2FF2B631E488A6F0080F945 /* Info.plist */,
 				B2FF2B5B1E488A6F0080F945 /* UseOfBlock.xcdatamodeld */,
+				19A5A7DF1E4C4ADD00B81564 /* .gitignore */,
 			);
 			path = UseOfBlock;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19A5A7E01E4C4ADD00B81564 /* .gitignore in Resources */,
 				B2FF2B621E488A6F0080F945 /* LaunchScreen.storyboard in Resources */,
 				B2FF2B5F1E488A6F0080F945 /* Assets.xcassets in Resources */,
 				B2FF2B5A1E488A6F0080F945 /* Main.storyboard in Resources */,
@@ -509,6 +513,7 @@
 				B2FF2B7E1E488A6F0080F945 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2FF2B7F1E488A6F0080F945 /* Build configuration list for PBXNativeTarget "UseOfBlockTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +522,7 @@
 				B2FF2B811E488A6F0080F945 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2FF2B821E488A6F0080F945 /* Build configuration list for PBXNativeTarget "UseOfBlockUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +531,7 @@
 				B2FF2B841E488A6F0080F945 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
