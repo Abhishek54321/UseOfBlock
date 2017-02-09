@@ -36,6 +36,9 @@ class ViewController: UIViewController {
     //====================================
     //1.we are committing the changes in feature branch
     //2.we are try to do some changes in feature branch.
+    //Step3.==============================
+    //We  are doing changes for merging into master branch.
+    
 
     
 }
